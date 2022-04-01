@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucif3r1
+- 👋 Hi, I’m Kon
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌱 I’m currently learning: Go and Vue
 - 📫 How to reach me: kohny23@protonmail.com
