@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Kon
-- 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently learning: Go and Vue
-- 📫 How to reach me: kohny23@protonmail.com
-
-<!---
-Lucif3r1/Lucif3r1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I’m Kon
+  - 👀 I’m interested in __Software Development and Cybersecurity__
+   - 🌱 I’m currently learning: __Go and Vue__
+   - 📫 How to reach me: _kohny23@protonmail.com_
+--- 
+![vecteezy_banner-abstract-vector-background-board-for-text-and-message_5715816](https://user-images.githubusercontent.com/45700153/161256746-e6d8755c-4a6e-4e62-a429-ec5fd6195c1c.jpg)
+---
+ _<a href="https://www.vecteezy.com/free-vector/banner-background">Banner Background Vectors by Vecteezy</a>_
